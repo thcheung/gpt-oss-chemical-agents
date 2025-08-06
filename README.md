@@ -1,4 +1,4 @@
-# GPT-OSS RDKit Agents
+# GPT-OSS Chemical Agents
 
 This project provides a Python-based assistant agent that leverages RDKit for cheminformatics tasks. The agent is powered by the GPT-OSS model and can perform various molecular computations, such as calculating molecular weight, validating SMILES strings, and determining logP values.
 
@@ -18,8 +18,8 @@ This project provides a Python-based assistant agent that leverages RDKit for ch
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/thcheung/gpt-oss-rdkit-agents
-   cd gpt-oss-rdkit-agents
+   git clone https://github.com/thcheung/gpt-oss-chemical-agents
+   cd gpt-oss-chemical-agents
    ```
 
 2. Install the required dependencies using `requirements.txt`:
