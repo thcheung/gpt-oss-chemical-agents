@@ -60,9 +60,6 @@ The agent can handle queries such as:
    What is the logP of the molecule with SMILES CCO?
    ```
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
