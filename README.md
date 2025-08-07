@@ -1,6 +1,6 @@
 # GPT-OSS Chemical Agents
 
-This project provides a Python-based assistant agent that leverages RDKit for cheminformatics tasks. The agent is powered by the GPT-OSS model and can perform various molecular computations, such as calculating molecular weight, validating SMILES strings, and determining logP values.
+This project provides a LLM agent that leverages RDKit for cheminformatics tasks. The agent is powered by the GPT-OSS model and can perform various molecular computations, such as calculating molecular weight, validating SMILES strings, and determining logP values.
 
 ## Features
 
