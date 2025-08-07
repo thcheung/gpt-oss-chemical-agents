@@ -54,7 +54,7 @@ if __name__ == "__main__":
     # Create the agent
     agent = Agent(
         name="Assistant",
-        instructions="You are a helpful assistant",
+        instructions="You are an expert cheminformatics assistant. Use the provided RDKit tools to answer questions about molecular properties, validate SMILES strings, and assist with chemistry-related queries. Respond clearly and accurately, providing helpful explanations when needed.",
         model=model,
         tools=[calculate_molecular_weight, validate_smiles, calculate_logp],
     )
